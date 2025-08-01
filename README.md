@@ -1,7 +1,7 @@
 🌿 GreenBasket – Sustainable E-Commerce for a Greener Tomorrow
 
 GreenBasket is a modern, full-stack e-commerce platform dedicated to promoting sustainable and eco-friendly shopping. Discover ethically sourced products like hemp bags, hemp oils, locally handcrafted goods, and other eco-conscious items through a seamless, responsive, and user-friendly experience.
-🔗 Live Site: greenbasket-esewa.vercel.app
+🔗 Live Site: [greenbasket-esewa.vercel.app](https://greenbasket-esewa.vercel.app/)
 📂 GitHub Repo: shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project
 👤 Connect with me on LinkedIn: Shahil Bhusal(https://www.linkedin.com/in/shahil-bhusal8848)
 
