@@ -95,7 +95,38 @@ npm run dev
 
 Open the app:Visit http://localhost:3000 in your browser.
 
+## 📸 Screenshots
 
+### 🏠 Homepage
+
+<img width="1920" height="3761" alt="home" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/customer%20home%20page.png" />
+
+### 📱 Product Catalog
+
+<img width="1920" height="1556" alt="all-produts" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/producct%20after%20search%20page.png" />
+
+### 🔍 Product Details
+
+<img width="1920" height="2093" alt="product-details" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/product%20detail%20page.png" />
+
+### 🛒 Shopping Cart
+
+<img width="1920" height="868" alt="cart" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/check%20out%20with%20esewa%20button.png" />
+
+### 📦 Order History
+
+<img width="1920" height="1333" alt="my-orders" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/customers%20myorder%20page.png" />
+
+### ➕ Order Page (Seller)
+
+<img width="1920" height="953" alt="add-product" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/admin%20order%20page.png" />
+
+### 📊 List of Products (Seller)
+
+<img width="1920" height="1473" alt="product-list" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/admin%20product%20list%20page.png" />
+
+### Esewa
+<img width="1920" height="1473" alt="product-list" src="https://github.com/shahil8848/GreenBasket-Esewa-Integration-Nextjs-Project-/blob/main/screenshots%20and%20reports/esewa.png" />
 
 🤝 Contributing
 Contributions are welcome To contribute:
